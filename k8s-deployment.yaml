@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: simple-app
-        image: <DOCKERHUB_USERNAME>/simple-app:latest
+        image: alvaroconceicao/simple-app:latest
         ports:
         - containerPort: 8080
