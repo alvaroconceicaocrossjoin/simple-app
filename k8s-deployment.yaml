@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: simple-app
-        image: alvaroconceicao/bulletin-board:latest
+        image: alvaroconceicao/bulletin-board:11
         ports:
         - containerPort: 8080
